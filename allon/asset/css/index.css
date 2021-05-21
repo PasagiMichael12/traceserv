@@ -1,0 +1,13 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+.galleryBg {
+   background: rgb(100, 38, 171);
+   background: linear-gradient(
+      180deg,
+      rgba(100, 38, 171, 1) 0%,
+      rgba(112, 104, 221, 1) 71%
+   );
+}
